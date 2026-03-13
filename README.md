@@ -35,4 +35,9 @@ int sum = a + b;
 Console.WriteLine("Sum: " + sum);
 ```
 
+
 Prepared by: Naz İçen
+
+Each question is written in a separate file.
+
+
